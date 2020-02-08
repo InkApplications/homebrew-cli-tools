@@ -3,6 +3,7 @@ class Shade < Formula
     homepage "https://Shade.lighting"
     url "https://github.com/InkApplications/Shade/releases/download/1.0.0-beta/shade.zip"
     sha256 "6167f9ed41ce2598fe82c4e5a77baf289e5ccabb32f714df920094e7783c3d7a"
+    version "1.0.0-beta"
 
     depends_on :java => "1.8"
     bottle :unneeded
